@@ -1,14 +1,14 @@
 layout_spectrum: 0.44138362794183195
-typography_spectrum: 0.24997826130129397
+typography_spectrum: 0.46963770943693817
 color:
-  brandStrength: 0.07120917225256562
-  lightness: 0.7598755245562643
-  saturation: 0.5196093486156315
-  rhythmicContrast: 0.7330699174199253
+  brandStrength: 0.5507029029540718
+  lightness: 0.064450787845999
+  saturation: 0.9662327663972974
+  rhythmicContrast: 0.18609525240026414
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 name: Team Fortis
