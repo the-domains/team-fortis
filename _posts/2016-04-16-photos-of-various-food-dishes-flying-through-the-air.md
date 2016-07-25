@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-25T21:30:40.039Z'
+datePublished: '2016-07-25T21:39:44.747Z'
 sourcePath: _posts/2016-04-16-photos-of-various-food-dishes-flying-through-the-air.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,7 +18,8 @@ keywords:
   - feature
 related: []
 author: []
-dateModified: '2016-07-25T21:30:39.579Z'
+via: {}
+dateModified: '2016-07-25T21:39:44.037Z'
 title: Photos of Various Food Dishes Flying Through the Air
 app_links: []
 publisher:
@@ -33,7 +34,6 @@ description: >-
   air as they come together on a plate or in a bowl.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
